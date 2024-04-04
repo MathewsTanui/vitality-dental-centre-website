@@ -50,3 +50,22 @@ nav ul li {
 #about p {
     line-height: 1.6;
 }
+
+/* Services Styles */
+#services {
+    background-color: #fff;
+    padding: 20px;
+}
+
+.service {
+    margin-bottom: 20px;
+}
+
+.service h3 {
+    color: #007bff;
+    margin-bottom: 10px;
+}
+
+.service p {
+    line-height: 1.6;
+}
