@@ -41,3 +41,12 @@ nav ul {
 nav ul li {
     margin: 0 10px;
 }
+
+/* About Us Styles */
+#about {
+    padding: 20px;
+}
+
+#about p {
+    line-height: 1.6;
+}
